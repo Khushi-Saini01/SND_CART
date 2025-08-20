@@ -4,6 +4,13 @@ SND CART is a fashion shopping prototype that connects customers with nearby loc
 
 This demo shows a complete shopping journey — from welcome → registration → login → shop → cart → order tracking — designed to feel smooth, modern, and fast.
 
+# SCREENSHOTS
+<img width="1917" height="919" alt="Screenshot 2025-08-21 003518" src="https://github.com/user-attachments/assets/ff49f03d-806c-4aa0-ac3d-1f94fb56c8bd" />
+<img width="1918" height="902" alt="Screenshot 2025-08-21 003530" src="https://github.com/user-attachments/assets/c559de84-9186-4e7c-8c68-005e48f348fb" />
+<img width="1845" height="753" alt="Screenshot 2025-08-21 003631" src="https://github.com/user-attachments/assets/74531cfb-cd6f-4c88-ace8-fe390e82c0bc" />
+<img width="1798" height="791" alt="Screenshot 2025-08-21 003643" src="https://github.com/user-attachments/assets/716f3360-5235-41eb-8e7c-c58b118dc804" />
+<img width="1082" height="880" alt="Screenshot 2025-08-21 003722" src="https://github.com/user-attachments/assets/e12bad41-992d-49cf-98c8-801b28364288" />
+
 # ✨ Key Features
 
 🏬 Shop Near You — discover local fashion stores in your area.
@@ -96,3 +103,4 @@ GPS-based real-time delivery tracking.
 Mobile-first responsive improvements.
 
 ✨ SND CART — Bringing Local Stores to Your Doorstep in 1 Hour.
+
